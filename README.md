@@ -115,6 +115,7 @@ The system retrieves the councillor’s details for the detected ward, fostering
 * **5️⃣ Correct:** If the AI makes a location mistake, use the "Select Location" dropdown to manually override and ensure the routing is 100% accurate.
 
 ---
+![image alt](https://github.com/Funda002/civic_delhi_try/blob/43f231d411f5b2cec35790c8f5db310fd9a6a1d0/Screenshot%202026-03-14%20160047.png)
 
 ## 🤝 Contribution & Acknowledgements
 This project is an evolving initiative to bridge the gap between technology and municipal governance in Delhi. Contributions are welcome! Whether you are interested in improving the accuracy of the location resolver, training a larger classification model, or enhancing the UI, please feel free to submit a Pull Request.
