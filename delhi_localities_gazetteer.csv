@@ -1,0 +1,572 @@
+locality,ward_name,ward_no,zone
+narela mandi,narela,1,narela zone
+narela industrial area,narela,1,narela zone
+punjabi colony,narela,1,narela zone
+bankner village,bankner,2,narela zone
+narela sector a-1,bankner,2,narela zone
+narela sector a-2,bankner,2,narela zone
+narela sector a-3,bankner,2,narela zone
+narela sector a-4,bankner,2,narela zone
+holambi kalan village,holambi kalan,3,narela zone
+metro vihar,holambi kalan,3,narela zone
+alipur village,alipur,4,narela zone
+bdo office area,alipur,4,narela zone
+jindpur,alipur,4,narela zone
+bakhtawarpur village,bakhtawarpur,5,narela zone
+triveni colony,bakhtawarpur,5,narela zone
+hiranki,bakhtawarpur,5,narela zone
+burari village,burari,6,civil lines zone
+kamalpur,burari,6,civil lines zone
+baba colony,burari,6,civil lines zone
+kadipur village,kadipur,7,civil lines zone
+kushak no. 1,kadipur,7,civil lines zone
+nangli poona,kadipur,7,civil lines zone
+mukundpur part 1,mukundpur,8,civil lines zone
+mukundpur part 2,mukundpur,8,civil lines zone
+samta vihar,mukundpur,8,civil lines zone
+sant nagar main market,sant nagar,9,civil lines zone
+bengali colony,sant nagar,9,civil lines zone
+jharoda majra,jharoda,10,civil lines zone
+burari public school area,jharoda,10,civil lines zone
+timarpur village,timarpur,11,civil lines zone
+drdo rac,timarpur,11,civil lines zone
+bd estate,timarpur,11,civil lines zone
+malka ganj,malka ganj,12,civil lines zone
+hansraj college area,malka ganj,12,civil lines zone
+jawahar nagar,malka ganj,12,civil lines zone
+mukherjee nagar,mukherjee nagar,13,civil lines zone
+hakikat nagar,mukherjee nagar,13,civil lines zone
+kingsway camp,mukherjee nagar,13,civil lines zone
+dhirpur village,dhirpur,14,civil lines zone
+nirankari colony,dhirpur,14,civil lines zone
+gandhi vihar,dhirpur,14,civil lines zone
+adarsh nagar,adarsh nagar,15,civil lines zone
+kewal park,adarsh nagar,15,civil lines zone
+majlis park,adarsh nagar,15,civil lines zone
+azadpur mandi,azadpur,16,civil lines zone
+lal bagh,azadpur,16,civil lines zone
+model town phase 3,azadpur,16,civil lines zone
+bhalswa dairy,bhalswa,17,civil lines zone
+bhalswa lake area,bhalswa,17,civil lines zone
+rajiv nagar,bhalswa,17,civil lines zone
+jahangirpuri block a,jahangir puri,18,civil lines zone
+jahangirpuri block b,jahangir puri,18,civil lines zone
+bjrm hospital,jahangir puri,18,civil lines zone
+swaroop nagar,sarup nagar,19,civil lines zone
+nathupura,sarup nagar,19,civil lines zone
+kadipur village,sarup nagar,19,civil lines zone
+samaypur village,samaypur badli,20,civil lines zone
+badli village,samaypur badli,20,civil lines zone
+yadav nagar,samaypur badli,20,civil lines zone
+rohini sector 7,rohini-a,21,rohini zone
+rohini sector 8,rohini-a,21,rohini zone
+naharpur,rohini-a,21,rohini zone
+rohini sector 11,rohini-b,22,rohini zone
+rohini sector 15,rohini-b,22,rohini zone
+rohini sector 16,rohini-b,22,rohini zone
+manav chowk,rohini-b,22,rohini zone
+rithala village,rithala,23,rohini zone
+rohini sector 24,rithala,23,rohini zone
+vijay vihar phase 1,vijay vihar,24,rohini zone
+vijay vihar phase 2,vijay vihar,24,rohini zone
+sector 4 rohini,vijay vihar,24,rohini zone
+budh vihar phase 1,budh vihar,25,rohini zone
+budh vihar phase 2,budh vihar,25,rohini zone
+shyam colony,budh vihar,25,rohini zone
+pooth kalan village,pooth kalan,26,rohini zone
+krishan vihar,pooth kalan,26,rohini zone
+begumpur village,begumpur,27,narela zone
+rajiv nagar,begumpur,27,narela zone
+jain nagar,begumpur,27,narela zone
+shahbad dairy colony,shahbad dairy,28,narela zone
+pooth khurd village,pooth khurd,29,narela zone
+barwala,pooth khurd,29,narela zone
+bawana village,bawana,30,narela zone
+dsiidc industrial area,bawana,30,narela zone
+nangal thakran,nangal thakran,31,narela zone
+bajitpur,nangal thakran,31,narela zone
+daryapur kalan,nangal thakran,31,narela zone
+kanjhawala village,kanjhawala,32,narela zone
+ladpur,kanjhawala,32,narela zone
+karala,kanjhawala,32,narela zone
+rani khera village,rani khera,33,narela zone
+rasulpur,rani khera,33,narela zone
+madanpur dabas,rani khera,33,narela zone
+nangloi village,nangloi,34,rohini zone
+surajmal stadium area,nangloi,34,rohini zone
+mundka village,mundka,35,rohini zone
+mundka industrial area,mundka,35,rohini zone
+nilothi village,nilothi,36,rohini zone
+nilothi extension,nilothi,36,rohini zone
+chander vihar,nilothi,36,rohini zone
+kirari suleman nagar,kirari,37,rohini zone
+agar nagar,kirari,37,rohini zone
+prem nagar phase 1,prem nagar,38,rohini zone
+prem nagar phase 2,prem nagar,38,rohini zone
+prem nagar phase 3,prem nagar,38,rohini zone
+mubarakpur dabas,prem nagar,38,rohini zone
+mubarikpur dabas village,mubarikpur,39,rohini zone
+bhagya vihar,mubarikpur,39,rohini zone
+nithari village,nithari,40,rohini zone
+nithari extension,nithari,40,rohini zone
+aman vihar,aman vihar,41,rohini zone
+karan vihar,aman vihar,41,rohini zone
+sector 20 parts,aman vihar,41,rohini zone
+sector 21 parts,aman vihar,41,rohini zone
+mangolpuri block a,mangol puri,42,rohini zone
+mangolpuri block b,mangol puri,42,rohini zone
+sanjay gandhi hospital area,mangol puri,42,rohini zone
+sultanpuri block a,sultanpuri-a,43,rohini zone
+sultanpuri block b,sultanpuri-a,43,rohini zone
+sultanpuri block c,sultanpuri-a,43,rohini zone
+sultanpuri block d,sultanpuri-a,43,rohini zone
+sultanpuri block e,sultanpuri-b,44,rohini zone
+sultanpuri block f,sultanpuri-b,44,rohini zone
+sultanpuri block g,sultanpuri-b,44,rohini zone
+sultanpuri block p,sultanpuri-b,44,rohini zone
+jawalapuri,jawalapuri,45,rohini zone
+sunder vihar,jawalapuri,45,rohini zone
+camp no 4,jawalapuri,45,rohini zone
+nangloi jat,nangloi jat,46,rohini zone
+bhootsiri village,nangloi jat,46,rohini zone
+nihal vihar,nihal vihar,47,rohini zone
+nangloi extension,nihal vihar,47,rohini zone
+guru harkishan nagar,guru harkishan nagar,48,rohini zone
+bhera enclave,guru harkishan nagar,48,rohini zone
+mangolpuri kalan,mangolpuri-a,49,rohini zone
+avantika,mangolpuri-a,49,rohini zone
+mangolpuri resettlement area,mangolpuri-b,50,rohini zone
+rohini sector 14,rohini-c,51,rohini zone
+prashant vihar,rohini-c,51,rohini zone
+rohini sector 9,rohini-c,51,rohini zone
+rohini sector 1,rohini-f,52,rohini zone
+rohini sector 2,rohini-f,52,rohini zone
+rohini sector 5,rohini-e,53,rohini zone
+rohini sector 6,rohini-e,53,rohini zone
+rohini sector 13,rohini-d,54,rohini zone
+rohini sector 3,rohini-d,54,rohini zone
+shalimar bagh block a,shalimar bagh - a,55,keshav puram zone
+shalimar bagh block b,shalimar bagh - a,55,keshav puram zone
+haiderpur village,shalimar bagh - a,55,keshav puram zone
+shalimar bagh block c,shalimar bagh - b,56,keshav puram zone
+shalimar bagh block d,shalimar bagh - b,56,keshav puram zone
+prabhu dayal area,shalimar bagh - b,56,keshav puram zone
+pitampura cd,pitam pura,57,keshav puram zone
+maurya enclave,pitam pura,57,keshav puram zone
+vaishali,pitam pura,57,keshav puram zone
+saraswati vihar,saraswati vihar,58,keshav puram zone
+lok vihar,saraswati vihar,58,keshav puram zone
+deepali,saraswati vihar,58,keshav puram zone
+paschim vihar east,paschim vihar,59,keshav puram zone
+paschim vihar west,paschim vihar,59,keshav puram zone
+meera bagh,paschim vihar,59,keshav puram zone
+rani bagh market,rani bagh,60,keshav puram zone
+rishi nagar,rani bagh,60,keshav puram zone
+kohat enclave,kohat enclave,61,keshav puram zone
+kapil vihar,kohat enclave,61,keshav puram zone
+netaji subhash place,kohat enclave,61,keshav puram zone
+shakur pur village,shakur pur,62,keshav puram zone
+britannia chowk area,shakur pur,62,keshav puram zone
+tri nagar,tri nagar,63,keshav puram zone
+onkar nagar,tri nagar,63,keshav puram zone
+shanti nagar,tri nagar,63,keshav puram zone
+keshav puram,keshav puram,64,keshav puram zone
+kanhaiya nagar,keshav puram,64,keshav puram zone
+rampura,keshav puram,64,keshav puram zone
+ashok vihar phase 1,ashok vihar,65,keshav puram zone
+ashok vihar phase 2,ashok vihar,65,keshav puram zone
+ashok vihar phase 3,ashok vihar,65,keshav puram zone
+satyawati college area,ashok vihar,65,keshav puram zone
+wazirpur village,wazir pur,66,keshav puram zone
+wazirpur jj colony,wazir pur,66,keshav puram zone
+sangam park,sangam park,67,keshav puram zone
+rana pratap bagh,sangam park,67,keshav puram zone
+gur mandi,sangam park,67,keshav puram zone
+model town 1,model town,68,keshav puram zone
+model town 2,model town,68,keshav puram zone
+derawal nagar,model town,68,keshav puram zone
+gujranwala town,model town,68,keshav puram zone
+kamla nagar market,kamla nagar,69,keshav puram zone
+roop nagar,kamla nagar,69,keshav puram zone
+shastri nagar,shastri nagar,70,city sp zone
+subhadra colony,shastri nagar,70,city sp zone
+kishan ganj railway colony,kishan ganj,71,city sp zone
+pratap nagar,kishan ganj,71,city sp zone
+sadar bazar market,sadar bazar,72,city sp zone
+bara hindu rao,sadar bazar,72,city sp zone
+civil lines,civil lines,73,civil lines zone
+vidhan sabha area,civil lines,73,civil lines zone
+majnu ka tilla,civil lines,73,civil lines zone
+red fort area,chandni chowk,74,city sp zone
+kinari bazar,chandni chowk,74,city sp zone
+town hall area,chandni chowk,74,city sp zone
+nai sarak,chandni chowk,74,city sp zone
+jama masjid,jama masjid,75,city sp zone
+meena bazar,jama masjid,75,city sp zone
+matia mahal,jama masjid,75,city sp zone
+chandni mahal,chandani mahal,76,city sp zone
+chitli qabar,chandani mahal,76,city sp zone
+sui walan,chandani mahal,76,city sp zone
+delhi gate,delhi gate,77,city sp zone
+turkman gate,delhi gate,77,city sp zone
+asaf ali road,delhi gate,77,city sp zone
+sita ram bazar,bazar sita ram,78,city sp zone
+hauz qazi,bazar sita ram,78,city sp zone
+chawri bazar,bazar sita ram,78,city sp zone
+ballimaran,ballimaran,79,city sp zone
+ghalib ki haveli,ballimaran,79,city sp zone
+churi walan,ballimaran,79,city sp zone
+ram nagar paharganj,ram nagar,80,city sp zone
+arakashan road,ram nagar,80,city sp zone
+quresh nagar,quraish nagar,81,city sp zone
+anand parbat,anand parbat,82,karol bagh zone
+nehru nagar,anand parbat,82,karol bagh zone
+shastri nagar parts,anand parbat,82,karol bagh zone
+beadon pura,karol bagh,83,karol bagh zone
+ajmal khan road,karol bagh,83,karol bagh zone
+dev nagar,dev nagar,84,karol bagh zone
+khalsa college area,dev nagar,84,karol bagh zone
+sidhu pura,rama krishna puram,85,karol bagh zone
+manak pura,rama krishna puram,85,karol bagh zone
+indorpuri,indorpuri,86,karol bagh zone
+dasghara village,indorpuri,86,karol bagh zone
+todapur village,indorpuri,86,karol bagh zone
+naraina village,naraina,87,karol bagh zone
+naraina industrial area,naraina,87,karol bagh zone
+pusa institute,naraina,87,karol bagh zone
+ranjit nagar,ranjit nagar,88,karol bagh zone
+shadi khampur,ranjit nagar,88,karol bagh zone
+pandav nagar west,ranjit nagar,88,karol bagh zone
+baljit nagar,baljit nagar,89,karol bagh zone
+patel nagar west,baljit nagar,89,karol bagh zone
+patel nagar east,west patel nagar,90,karol bagh zone
+patel nagar central,west patel nagar,90,karol bagh zone
+new patel nagar,south patel nagar,91,karol bagh zone
+moti nagar,moti nagar,92,karol bagh zone
+karampura,moti nagar,92,karol bagh zone
+ramesh nagar,ramesh nagar,93,karol bagh zone
+kirti nagar industrial area,ramesh nagar,93,karol bagh zone
+punjabi bagh east,punjabi bagh,94,karol bagh zone
+madipur,madipur,95,west zone
+madipur resettlement colony,madipur,95,west zone
+punjabi bagh west,punjabi bagh,96,west zone
+arihant nagar,punjabi bagh,96,west zone
+raja garden,raja garden,97,west zone
+bali nagar,raja garden,97,west zone
+mansarover garden,raja garden,97,west zone
+raghubir nagar,raghubir nagar,98,west zone
+tagore garden,tagore garden,99,west zone
+vishnu garden,tagore garden,99,west zone
+khyalat village,tagore garden,99,west zone
+subhash nagar,subhash nagar,100,west zone
+meenakshi garden,subhash nagar,100,west zone
+hari nagar,hari nagar,101,west zone
+clock tower area,hari nagar,101,west zone
+mayapuri phase 1,mayapuri,102,west zone
+mayapuri phase 2,mayapuri,102,west zone
+fateh nagar,mayapuri,102,west zone
+tilak nagar market,tilak nagar,103,west zone
+ganesh nagar tilak nagar,tilak nagar,103,west zone
+ajay enclave,tilak nagar,103,west zone
+shiv nagar,tilak nagar,103,west zone
+virender nagar,tilak nagar,103,west zone
+ashok nagar,tilak nagar,103,west zone
+janakpuri south,janakpuri south,104,west zone
+janakpuri blocks a b c,janakpuri south,104,west zone
+janakpuri west,janakpuri west,105,west zone
+milap nagar,janakpuri west,105,west zone
+posangi pur,janakpuri west,105,west zone
+vikas puri blocks a to g,vikas puri,106,west zone
+bodella village,vikas puri,106,west zone
+hastsal village,hastsal,107,west zone
+hastsal extension,hastsal,107,west zone
+uttam nagar,uttam nagar,108,west zone
+milap nagar uttam nagar,uttam nagar,108,west zone
+bindapur,bindapur,109,west zone
+jeewan park,bindapur,109,west zone
+dabri extension,dabri,110,west zone
+dashrath puri,dabri,110,west zone
+sagarpur east,sagarpur east,111,west zone
+durga puri,sagarpur east,111,west zone
+sagarpur west,sagarpur west,112,west zone
+naseerpur,sagarpur west,112,west zone
+manglapuri,manglapuri,113,west zone
+palam village,palam,114,west zone
+raj nagar palam,palam,114,west zone
+sadhu saini enclave,palam,114,west zone
+dwarka sector 1,dwarka a,115,west zone
+dwarka sector 2,dwarka a,115,west zone
+dwarka sector 6,dwarka a,115,west zone
+dwarka sector 10,dwarka b,116,west zone
+dwarka sector 11,dwarka b,116,west zone
+dwarka sector 12,dwarka b,116,west zone
+dwarka sector 16,dwarka c,117,west zone
+dwarka sector 17,dwarka c,117,west zone
+dwarka sector 19,dwarka c,117,west zone
+nawada village,nawada,118,west zone
+mohen garden,nawada,118,west zone
+rama park,nawada,118,west zone
+mohen garden north,mohen garden,119,west zone
+najafgarh market,najafgarh,120,najafgarh zone
+najafgarh extension,najafgarh,120,najafgarh zone
+dichau kalan,dichau kalan,121,najafgarh zone
+nirmal vihar,dichau kalan,121,najafgarh zone
+jhuljhuli,jhuljhuli,122,najafgarh zone
+ghumenhera,jhuljhuli,122,najafgarh zone
+issapur,jhuljhuli,122,najafgarh zone
+roshnara,roshnara,123,najafgarh zone
+badusarai,roshnara,123,najafgarh zone
+daulatpur,roshnara,123,najafgarh zone
+chhawla village,chhawla,124,najafgarh zone
+qutub vihar,chhawla,124,najafgarh zone
+bijwasan village,bijwasan,125,najafgarh zone
+bharthal village,bijwasan,125,najafgarh zone
+kapashera village,kapashera,126,najafgarh zone
+dundahera,kapashera,126,najafgarh zone
+mahipalpur village,mahipalpur,127,najafgarh zone
+rangpuri,mahipalpur,127,najafgarh zone
+vasant kunj blocks a to e,vasant kunj,128,najafgarh zone
+kishangarh village,vasant kunj,128,najafgarh zone
+laddo sarai,laddo sarai,129,najafgarh zone
+mehrauli village,mehrauli,130,najafgarh zone
+qutub minar area,mehrauli,130,najafgarh zone
+vasant vihar,vasant vihar,131,najafgarh zone
+shanti niketan,vasant vihar,131,najafgarh zone
+anand niketan,vasant vihar,131,najafgarh zone
+rk puram sector 1,munirka,132,najafgarh zone
+rk puram sector 2,munirka,132,najafgarh zone
+rk puram sector 3,munirka,132,najafgarh zone
+munirka village,munirka,132,najafgarh zone
+rk puram sector 4,rk puram,133,najafgarh zone
+rk puram sector 5,rk puram,133,najafgarh zone
+nauroji nagar,rk puram,133,najafgarh zone
+safdarjung enclave,safdarjung enclave,134,najafgarh zone
+arjun nagar,safdarjung enclave,134,najafgarh zone
+humayunpur village,safdarjung enclave,134,najafgarh zone
+hauz khas village,hauz khas,135,najafgarh zone
+iit delhi area,hauz khas,135,najafgarh zone
+malviya nagar market,malviya nagar,136,najafgarh zone
+saket blocks a to n,saket,137,najafgarh zone
+pushp vihar,saket,137,najafgarh zone
+chattarpur village,chattarpur,138,najafgarh zone
+dlf chattarpur,chattarpur,138,najafgarh zone
+aya nagar village,aya nagar,139,najafgarh zone
+arjan garh,aya nagar,139,najafgarh zone
+bhati mines,bhati,140,najafgarh zone
+dera village,bhati,140,najafgarh zone
+sangam vihar block a,sangam vihar a,141,najafgarh zone
+sangam vihar block b,sangam vihar b,142,central zone
+sangam vihar block c,sangam vihar c,143,central zone
+deoli village,deoli,144,central zone
+tigri village,tigri,145,central zone
+dakshinpuri,dakshinpuri,146,central zone
+dakshinpuri extension,dakshinpuri,146,central zone
+madangir,madangir,147,central zone
+pushp vihar,madangir,147,central zone
+tughlakabad village,tughlakabad,148,central zone
+tughlakabad extension,tughlakabad,148,central zone
+pul pehladpur,pul pehladpur,149,central zone
+lal kuan,pul pehladpur,149,central zone
+badarpur village,badarpur,150,central zone
+badarpur extension,badarpur,150,central zone
+molar band village,molar band,151,central zone
+molar band extension,molar band,151,central zone
+meethapur village,meethapur,152,central zone
+meethapur extension,meethapur,152,central zone
+hari nagar badarpur,hari nagar badarpur,153,central zone
+jaitpur village,jaitpur,154,central zone
+jaitpur extension,jaitpur,154,central zone
+madanpur khadar village,madanpur khadar,155,central zone
+madanpur khadar extension,madanpur khadar,155,central zone
+sarita vihar,sarita vihar,156,central zone
+jasola vihar,sarita vihar,156,central zone
+abhal fazal enclave,sarita vihar,156,central zone
+zakir nagar,zakir nagar,157,central zone
+batla house,zakir nagar,157,central zone
+jamia nagar,zakir nagar,157,central zone
+okhla village,okhla,158,central zone
+masih garh,okhla,158,central zone
+sukhdev vihar,okhla,158,central zone
+sriniwaspuri,sriniwaspuri,159,central zone
+garhi village,sriniwaspuri,159,central zone
+amar colony,amar colony,160,central zone
+lajpat nagar 4,amar colony,160,central zone
+lajpat nagar 1,lajpat nagar,161,central zone
+lajpat nagar 2,lajpat nagar,161,central zone
+lajpat nagar 3,lajpat nagar,161,central zone
+bhogal,central market,162,central zone
+nizamuddin west,central market,162,central zone
+nizamuddin east,central market,162,central zone
+jangpura a,jangpura,163,central zone
+jangpura b,jangpura,163,central zone
+pant nagar,jangpura,163,central zone
+kasturba nagar,kasturba nagar,164,central zone
+lodhi colony,kasturba nagar,164,central zone
+aliganj,kasturba nagar,164,central zone
+sewa nagar,kasturba nagar,164,central zone
+andrews ganj,andrews ganj,165,central zone
+hudco place,andrews ganj,165,central zone
+greater kailash 1,greater kailash,166,central zone
+greater kailash 2,greater kailash,166,central zone
+chittaranjan park,chittaranjan park,167,south zone
+cr park blocks a to k,chittaranjan park,167,south zone
+alknanda,chittaranjan park,167,south zone
+chirag delhi village,chirag delhi,168,south zone
+soami nagar,chirag delhi,168,south zone
+panchsheel enclave,chirag delhi,168,south zone
+greater kailash 2,greater kailash,169,south zone
+shivalik enclave,greater kailash,169,south zone
+malviya nagar parts,greater kailash,169,south zone
+kalkaji blocks a to l,kalkaji,170,south zone
+kalkaji temple area,kalkaji,170,south zone
+govindpuri blocks a to g,govindpuri,171,south zone
+govindpuri extension,govindpuri,171,south zone
+harkesh nagar,harkesh nagar,172,south zone
+okhla phase 2,harkesh nagar,172,south zone
+okhla phase 3,harkesh nagar,172,south zone
+okhla phase 1,okhla phase 1,173,south zone
+tehkhand village,okhla phase 1,173,south zone
+khanpur village,khanpur,174,south zone
+khanpur extension,khanpur,174,south zone
+hamdard nagar,khanpur,174,south zone
+neb sarai,neb sarai,175,south zone
+ignou area,neb sarai,175,south zone
+sainik farm,neb sarai,175,south zone
+vishwa karma colony,neb sarai,175,south zone
+pul pehladpur parts,pul pehladpur,176,south zone
+sangam vihar blocks l to p,sangam vihar south,177,south zone
+sangam vihar blocks f to j,sangam vihar central,178,south zone
+mehrauli market,mehrauli,179,south zone
+ward no 1 mehrauli,mehrauli,179,south zone
+vasant kunj blocks f to k,vasant kunj,180,south zone
+mahila park area,vasant kunj,180,south zone
+munirka enclave,munirka,181,south zone
+munirka parts,munirka,181,south zone
+safdarjung hospital area,safdarjung,182,south zone
+kidwai nagar east,safdarjung,182,south zone
+kidwai nagar west,safdarjung,182,south zone
+ansari nagar,safdarjung,182,south zone
+netaji nagar,netaji nagar,183,south zone
+sarojini nagar market,netaji nagar,183,south zone
+laxmi bai nagar,netaji nagar,183,south zone
+rk puram sector 7,rk puram west,184,south zone
+rk puram sector 8,rk puram west,184,south zone
+rk puram sector 9,rk puram west,184,south zone
+rk puram sector 12,rk puram west,184,south zone
+rk puram sector 6,rk puram east,185,south zone
+rk puram sector 5 parts,rk puram east,185,south zone
+moti bagh south,moti bagh,186,south zone
+nanak pura,moti bagh,186,south zone
+shanti path area,moti bagh,186,south zone
+chanakyapuri,moti bagh,186,south zone
+diplomatic enclave,moti bagh,186,south zone
+vasant vihar blocks a to z,vasant vihar,187,south zone
+vasant vihar market,vasant vihar,187,south zone
+mahipalpur parts,mahipalpur,188,south zone
+rangpuri village,mahipalpur,188,south zone
+kapashera border,kapashera,189,south zone
+kapashera extension,kapashera,189,south zone
+yamuna vihar blocks a to e,yamuna vihar,190,shahdara north zone
+yamuna vihar market,yamuna vihar,190,shahdara north zone
+bhajanpura blocks a to d,bhajanpura,191,shahdara north zone
+bhajanpura main market,bhajanpura,191,shahdara north zone
+subhash mohalla,subhash mohalla,192,shahdara north zone
+ghonda village,ghonda,193,shahdara north zone
+ghonda extension,ghonda,193,shahdara north zone
+brahmpuri blocks a to x,brahmpuri,194,shahdara north zone
+maujpur village,maujpur,195,shahdara north zone
+maujpur market,maujpur,195,shahdara north zone
+gonda gujran,gonda gujran,196,shahdara north zone
+jafrabad village,jafrabad,197,shahdara north zone
+jafrabad blocks a to f,jafrabad,197,shahdara north zone
+seelampur village,seelampur,198,shahdara north zone
+seelampur blocks a to k,seelampur,198,shahdara north zone
+gautam puri,gautam puri,199,shahdara north zone
+chauhan bangar,chauhan bangar,200,shahdara north zone
+kartar nagar,kartar nagar,201,shahdara north zone
+babarpur village,babarpur,202,shahdara north zone
+babarpur extension,babarpur,202,shahdara north zone
+west jyoti nagar,babarpur,202,shahdara north zone
+ashok nagar shahdara,ashok nagar,203,shahdara north zone
+harsh vihar,harsh vihar,204,shahdara north zone
+saboli village,saboli,205,shahdara north zone
+saboli extension,saboli,205,shahdara north zone
+gokalpuri village,gokalpuri,206,shahdara north zone
+gokalpuri resettlement colony,gokalpuri,206,shahdara north zone
+johripur,johripur,207,shahdara north zone
+ganga vihar,ganga vihar,208,shahdara north zone
+bhagirathi vihar,bhagirathi vihar,209,shahdara north zone
+dayalpur village,dayalpur,210,shahdara north zone
+dayalpur extension,dayalpur,210,shahdara north zone
+karawal nagar west,karawal nagar west,211,shahdara north zone
+shiv vihar,karawal nagar west,211,shahdara north zone
+karawal nagar east,karawal nagar east,212,shahdara north zone
+rama garden,karawal nagar east,212,shahdara north zone
+shri ram colony,shri ram colony,213,shahdara north zone
+khajuri khas,khajuri khas,214,shahdara north zone
+tukhmirpur,tukhmirpur,215,shahdara north zone
+karawal nagar parts,tukhmirpur,215,shahdara north zone
+sonia vihar blocks a to g,sonia vihar,216,shahdara north zone
+sabha pur,sabha pur,217,shahdara north zone
+nanaksar,sabha pur,217,shahdara north zone
+dilshad colony,dilshad colony,218,shahdara north zone
+dilshad garden blocks a to k,dilshad garden,219,shahdara north zone
+gtb hospital area,dilshad garden,219,shahdara north zone
+jhilmil colony,jhilmil,220,shahdara north zone
+jhilmil industrial area,jhilmil,220,shahdara north zone
+mansarovar park,mansarovar park,221,shahdara north zone
+shahdara village,shahdara,222,shahdara north zone
+shahdara market,shahdara,222,shahdara north zone
+nand nagri blocks a to e,nand nagri,223,shahdara north zone
+sunder nagri,sunder nagri,224,shahdara north zone
+vishwa karma nagar,vishwa karma nagar,225,shahdara south zone
+jhilmil parts,vishwa karma nagar,225,shahdara south zone
+vivek vihar phase 1,vivek vihar,226,shahdara south zone
+vivek vihar phase 2,vivek vihar,226,shahdara south zone
+anand vihar,anand vihar,227,shahdara south zone
+isbt anand vihar area,anand vihar,227,shahdara south zone
+surajmal vihar,anand vihar,227,shahdara south zone
+ip extension,ip extension,228,shahdara south zone
+patparganj village,ip extension,228,shahdara south zone
+mayur vihar phase 2,mayur vihar phase 2,229,shahdara south zone
+vinod nagar west,mayur vihar phase 2,229,shahdara south zone
+mandawali village,mandawali,230,shahdara south zone
+mandawali extension,mandawali,230,shahdara south zone
+vinod nagar east,vinod nagar east,231,shahdara south zone
+mayur vihar phase 2 parts,vinod nagar east,231,shahdara south zone
+mayur vihar phase 1,mayur vihar phase 1,232,shahdara south zone
+mayur vihar phase 1 extension,mayur vihar phase 1,232,shahdara south zone
+chilla village,mayur vihar phase 1,232,shahdara south zone
+dallupura village,dallupura,233,shahdara south zone
+kondli village,kondli,234,shahdara south zone
+ghroli village,ghroli,235,shahdara south zone
+ghroli extension,ghroli,235,shahdara south zone
+kalyanpuri blocks a to k,kalyanpuri,236,shahdara south zone
+khichripur village,khichripur,237,shahdara south zone
+khichripur resettlement colony,khichripur,237,shahdara south zone
+shashi garden,shashi garden,238,shahdara south zone
+mayur vihar phase 1 parts,shashi garden,238,shahdara south zone
+patparganj village,patparganj,239,shahdara south zone
+pandav nagar east,patparganj,239,shahdara south zone
+ganesh nagar,patparganj,239,shahdara south zone
+laxmi nagar market,laxmi nagar,240,shahdara south zone
+guru nanak pura,laxmi nagar,240,shahdara south zone
+shakarpur blocks a to s,shakarpur,241,shahdara south zone
+shakarpur market,shakarpur,241,shahdara south zone
+pandav nagar,pandav nagar,242,shahdara south zone
+samaspur village,pandav nagar,242,shahdara south zone
+krishna nagar blocks a to n,krishna nagar,243,shahdara south zone
+krishna nagar market,krishna nagar,243,shahdara south zone
+anand puri,anand puri,244,shahdara south zone
+khureji khas,anand puri,244,shahdara south zone
+vishwas nagar,vishwas nagar,245,shahdara south zone
+vishwas nagar industrial area,vishwas nagar,245,shahdara south zone
+bholanath nagar,bholanath nagar,246,shahdara south zone
+shahdara railway station area,bholanath nagar,246,shahdara south zone
+aryapura,aryapura,247,shahdara south zone
+geeta colony blocks a to k,geeta colony,248,shahdara south zone
+shastri park,shastri park,249,shahdara south zone
+shastri park metro area,shastri park,249,shahdara south zone
+ghonda gujran parts,shastri park,249,shahdara south zone
+bhajanpura parts,bhajanpura,250,shahdara south zone
+bhajanpura extension,bhajanpura,250,shahdara south zone
