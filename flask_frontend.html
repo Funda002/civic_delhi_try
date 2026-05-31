@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Delhi Civic Grievance System</title>
+</head>
+<body>
+  <h1>Delhi Civic Grievance System</h1>
+
+  <input type="file" id="imageInput" accept="image/*"><br><br>
+
+  <textarea id="userText" rows="4" cols="50"
+    placeholder="Enter complaint details"></textarea><br><br>
+
+  <button onclick="submitComplaint()">Classify & Route</button>
+
+  <h2>Result</h2>
+  <pre id="resultBox">Waiting for input...</pre>
+
+  <script>
+    async function submitComplaint() {
+      const imageFile = document.getElementById("imageInput").files[0];
+      const userText = document.getElementById("userText").value;
+
+      const formData = new FormData();
+      formData.append("user_text", userText);
+
+      if (imageFile) {
+        formData.append("image", imageFile);
+      }
+
+      document.getElementById("resultBox").innerText = "Processing...";
+
+      try {
+        const response = await fetch("http://127.0.0.1:5000/classify", {
+          method: "POST",
+          body: formData
+        });
+
+        const data = await response.json();
+        document.getElementById("resultBox").innerText =
+          JSON.stringify(data, null, 2);
+
+      } catch (error) {
+        document.getElementById("resultBox").innerText =
+          "Error: Is Flask app.py running?";
+      }
+    }
+  </script>
+</body>
+</html>
